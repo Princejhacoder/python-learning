@@ -16,6 +16,8 @@ str = "apna college"
 # print(str[5:])  # Output: college
 
 # Negative Indexing
-str = "apple"
-print(str[-3:-1]) # Output: pl
-print(str[-5:])
+# str = "apple"
+# print(str[-3:-1]) # Output: pl
+# print(str[-5:])
+
+# String Functions
